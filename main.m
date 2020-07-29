@@ -5,7 +5,8 @@
 % Journal of Information Security and Applications, Elsevier, Volume 50, February 2020, DOI: https://doi.org/10.1016/j.jisa.2019.102428
 
 %---------------------------------------------------------------------------------
-
+web('https://docs.google.com/document/d/1AbCxFoUhdOCppM8novgCdOv0F9mqYe7HlBU7yX7Svx0/edit?usp=sharing')
+web('published_work.html')
 % Demo: 
  a=imread('image.png');
  c=imread('cipherimage.png');
